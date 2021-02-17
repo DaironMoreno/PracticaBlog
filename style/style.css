@@ -1,9 +1,25 @@
 body{
 	margin: 0px;
 	padding: 0px;
+	font-family: arial,verdana;
 }
 .header img{
 	width: 15%;
+
+
+}
+.articulos
+{
+	width: 80%;
+	margin: 0 auto;
+	padding: 10px;
+}
+.articulos h1
+{
+	text-align: center;
+}
+.articulos article
+{
 	
 
 }
