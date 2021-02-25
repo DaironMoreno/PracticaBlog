@@ -1,12 +1,30 @@
 body{
+	box-sizing: border-box;
 	margin: 0px;
 	padding: 0px;
 	font-family: arial,verdana;
 }
-.header img{
-	width: 15%;
-
-
+html
+{
+	font-size: 62.5%; 
+}
+.header
+{
+	display: flex;
+	flex-wrap: wrap;
+	width: 100vw;
+	height: 60vh;
+	justify-content: space-around;
+}
+.titulo
+{
+	padding: 10px;
+	font-size: 1.8rem;
+	color: #01468B;
+}
+.titulo h1:hover
+{
+	color: #e89e1e;
 }
 .articulos
 {
