@@ -41,3 +41,10 @@ html
 	
 
 }
+.footer{
+	background: #222447;
+	color: white;
+	padding: 2rem;
+	text-align: center;
+	font-size: 1.8rem;
+}
